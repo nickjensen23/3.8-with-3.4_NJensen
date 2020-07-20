@@ -25,7 +25,7 @@
 	
 	<div class="container">
 	
-		<h2>Viewport Meta Tag</h2>
+		<h2>Hello, my name is Nick Jensen</h2>
 		<p>Add this tag so that the browser will use your responsive styling. Without this, a mobile browser will use a zoomed-out version of your desktop site.
 		</p>
   
