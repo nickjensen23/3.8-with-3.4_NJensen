@@ -2,13 +2,11 @@
 <html lang="en">
   <head>
   
-	<title>Responsive Layouts</title>
+	<title>Lifestyle Sports</title>
 	
 	<meta charset="utf-8">
 	
-	<meta name="Keywords" content="html5, layout, CSS Grid System"/>
 	<meta name="Author" content="Nick Jensen"/>
-	<meta name="Description" content="CSS Grid System Layout Tutorial"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- import the webpage's stylesheet goes here -->
@@ -20,14 +18,21 @@
   <body>
  
 	<div class="header">
-	   <h1>Responsive Layouts</h1>
+	   <h1>Lifestyle Sports</h1>
 	</div>
 	
-	<div class="container">
+	<div class="nav">
 	
-		<h2>Viewport Meta Tag</h2>
-		<p>Add this tag so that the browser will use your responsive styling. Without this, a mobile browser will use a zoomed-out version of your desktop site.
-		</p>
+	<ul>
+	<li><a href="index.html"></a> Index </li>
+	<li><a href="shop.html"></a> Shop </li> 
+	<li><a href="aboutus.html"></a> About us </li> 
+	<li><a href="contact.html"></a> Contact </li> 
+	</ul>
+	
+	<div class="section">
+	
+	<p> 
   
 	</div>
 	
