@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>										
 <html lang="en">
   <head>
   
@@ -6,32 +6,28 @@
 	
 	<meta charset="utf-8">
 	
+	<meta name="Keywords" content="html5, layout, Lifestyle Sports website"/>
 	<meta name="Author" content="Nick Jensen"/>
+	<meta name="Description" content="3.2 Assessment build, Lifestyle Sports"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- import the webpage's stylesheet goes here -->
 	<link rel="stylesheet" href="css/style.css">
 	
-  </head> 
-
+	</head> 
+	
 	<!-- main webpage content starts here -->  
   <body>
- 
- <div class="header">
-	<h1>Banner</h1>
-    </div>
-	<!--This class is for my Navigation/Menu-->
-	<div class="nav">
-	<h1>Nav</h1>
-	</div>
-		
-	<div class="section">
-	<h1>Slider</h1>
-	</div>
+  
+	<div class="grid-container">
 	
-	<div class="footer">
-	<h1>Footer</h1>
-	</div>
+	<div class="header">Banner</div>
+	<!--This class is for my Navigation/Menu-->
+	<div class="nav">Nav</div>
+		
+	<div class="section">Slider</div>
+		
+	<div class="footer">Footer</div>
 	
   </body>
 </html>
