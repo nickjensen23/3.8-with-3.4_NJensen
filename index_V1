@@ -17,23 +17,20 @@
 	<!-- main webpage content starts here -->  
   <body>
  
-	<div class="header">
-	   <h1>Lifestyle Sports</h1>
+ <div class="header">
+	<h1>Banner</h1>
+    </div>
+	<!--This class is for my Navigation/Menu-->
+	<div class="nav">
+	<h1>Nav</h1>
+	</div>
+		
+	<div class="section">
+	<h1>Slider</h1>
 	</div>
 	
-	<div class="nav">
-	
-	<ul>
-	<li><a href="index.html"></a> Index </li>
-	<li><a href="shop.html"></a> Shop </li> 
-	<li><a href="aboutus.html"></a> About us </li> 
-	<li><a href="contact.html"></a> Contact </li> 
-	</ul>
-	
-	<div class="section">
-	
-	<p> 
-  
+	<div class="footer">
+	<h1>Footer</h1>
 	</div>
 	
   </body>
