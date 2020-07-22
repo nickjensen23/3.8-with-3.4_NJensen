@@ -1,35 +1,33 @@
-<!DOCTYPE html>
+<!DOCTYPE html>										
 <html lang="en">
   <head>
   
-	<title>Responsive Layouts</title>
+	<title>Lifestyle Sports</title>
 	
 	<meta charset="utf-8">
 	
-	<meta name="Keywords" content="html5, layout, CSS Grid System"/>
+	<meta name="Keywords" content="html5, layout, Lifestyle Sports website"/>
 	<meta name="Author" content="Nick Jensen"/>
-	<meta name="Description" content="CSS Grid System Layout Tutorial"/>
+	<meta name="Description" content="3.2 Assessment build, Lifestyle Sports"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- import the webpage's stylesheet goes here -->
 	<link rel="stylesheet" href="css/style.css">
 	
-  </head> 
-
+	</head> 
+	
 	<!-- main webpage content starts here -->  
   <body>
- 
-	<div class="header">
-	   <h1>Responsive Layouts</h1>
-	</div>
-	
-	<div class="container">
-	
-		<h2>Hello, my name is Nick Jensen</h2>
-		<p>Add this tag so that the browser will use your responsive styling. Without this, a mobile browser will use a zoomed-out version of your desktop site.
-		</p>
   
-	</div>
+	<div class="grid-container">
+	
+	<div class="header">Banner - Lifestyle Sports Logo</div>
+	<!--This class is for my Navigation/Menu-->
+	<div class="nav">Nav - Drop down menu</div>
+		
+	<div class="section">Slider - filled with many images</div>
+		
+	<div class="footer">Footer - Copyright statement</div>
 	
   </body>
 </html>
