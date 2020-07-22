@@ -21,13 +21,13 @@
   
 	<div class="grid-container">
 	
-	<div class="header">Banner</div>
+	<div class="header">Banner - Lifestyle Sports logo</div>
 	<!--This class is for my Navigation/Menu-->
 	<div class="nav">Nav</div>
 		
-	<div class="section">Slider</div>
+	<div class="section">Slider - Filled with many images</div>
 		
-	<div class="footer">Footer</div>
+	<div class="footer">Footer - Copyright Statement</div>
 	
   </body>
 </html>
