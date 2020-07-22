@@ -16,18 +16,19 @@
 	
 	</head> 
 	
-	<!-- main webpage content starts here -->  
+	<!-- main webpage content starts here -->
   <body>
   
 	<div class="grid-container">
 	
 	<div class="header">Banner - Lifestyle Sports Logo</div>
-	<!--This class is for my Navigation/Menu-->
+	<!--This class is for my Navigation/Menu -->
 	<div class="nav">Nav - Drop down menu</div>
 		
-	<div class="section">Slider - filled with many images</div>
+	<div class="section">Welcome to Lifestyle Sports - text<br>Slider - filled with many images</div>
 		
 	<div class="footer">Footer - Copyright statement</div>
 	
   </body>
 </html>
+
