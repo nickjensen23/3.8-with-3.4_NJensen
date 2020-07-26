@@ -1,1 +1,36 @@
+<!DOCTYPE html>										
+<html lang="en">
+  <head>
+  
+	<title>Lifestyle Sports</title>
+	
+	<meta charset="utf-8">
+	
+	<meta name="Keywords" content="html5, layout, Lifestyle Sports website"/>
+	<meta name="Author" content="Nick Jensen"/>
+	<meta name="Description" content="3.2 Assessment build, Lifestyle Sports"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- import the webpage's stylesheet goes here -->
+	<link rel="stylesheet" href="css/style.css">
+	
+	</head> 
+	
+	<!-- main webpage content starts here -->
+  <body>
+  
+	<div class="grid-container">
+	
+	<div class="header">Banner - Lifestyle Sports Logo</div>
+	<!--This class is for my Navigation/Menu -->
+	<div class="nav">Nav - Drop down menu</div>
+		
+	<div class="section">Text<br>Link to products here</div>
+		
+	<div class="footer">Footer - Copyright statement</div>
+	
+  </body>
+</html>
+
+
 
