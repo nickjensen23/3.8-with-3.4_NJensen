@@ -1,0 +1,61 @@
+<!-- The Host Address for my Website Form goes here -->
+
+<!-- http:///njensen.dx.am/contact.php-->
+
+<!-- to access form data: Webmail Access, RoundCube, Login: admin@njensen.dx.am Password: as awardspace -->
+
+<!DOCTYPE html>										
+<html lang="en">
+
+<html>
+<head>
+	<title>Lifestyle Sports</title>
+	<link rel="stylesheet" href="css/style3.css">
+</head>
+
+<body>
+	<div class= "header">
+	<img src="img/Lifestyle Sports Logo.jpg" alt="Logo" class="center">
+	</div>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="shop.html">Shop</a></li>
+				<li><a href="aboutus.html">About us</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</nav>
+		
+		<!-- Break to bring Form down below Navigation -->
+		<br><br><hr><br>
+		
+
+<div class="container">
+  <form action="action_page.php">
+
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+	
+	<label for="lname">Address</label>
+    <input type="text" id="address" name="address" placeholder="Your address..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="new zealand">New Zealand</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
+
+<!-- copyright statement -->
+<div id="footer">© 2020 Nick Jensen.</div>
+</body>
+</html>
