@@ -12,7 +12,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- import the webpage's stylesheet goes here -->
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/style1.css">
 	
 	</head> 
 	
@@ -21,16 +21,69 @@
   
 	<div class="grid-container">
 	
-	<div class="header">Banner - Lifestyle Sports Logo</div>
+	<div class="header">
+	<img src="img/Lifestyle Sports Logo.jpg" alt="Logo" class="center">
+	</div>
+	
 	<!--This class is for my Navigation/Menu -->
-	<div class="nav">Nav - Drop down menu</div>
+	<div class="nav">
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="shop.html">Shop</a></li>
+				<li><a href="aboutus.html">About us</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</div>
 		
-	<div class="section">Text<br>Link to products here</div>
+	<div class="section">
+	<div class="card">
+  <img src="img/hat.jpg" alt="Hat" style="width:100%">
+  <h1>47 BRAND NEW YORK YANKEES</h1>
+  <p class="price">$50.00</p>
+  <p>47 BRAND<br>
+
+	NEW YORK BUCKET HAT<br> 
+
+	TAN/WHEAT</p>
+	
+ <p class="cart"><p><button>Add to Cart</button></p>
+</div>
+
+<div class="card1">
+  <img src="img/bag.jpg" alt="Bag" style="width:100%">
+  <h1>ADI BP POWER FL8998</h1>
+  <p class="price1">$55.00</p>
+  <p>ADIDAS BP BAG<br></p>
+	
+ <p class="cart1"><p><button>Add to Cart</button></p>
+</div>
+
+<div class="card2">
+  <img src="img/cap.jfif" alt="Cap" style="width:100%">
+  <h1>47 New York MVP Yankees Cap Navy/White</h1>
+  <p class="price2">$45.00</p>
+	
+ <p class="cart2"><p><button>Add to Cart</button></p>
+</div>
+
+<div class="card3"
+ <img src="img/hurricanes_jacket.jpg" alt="Hurricanes Jacket" style="width:100%">
+ <h1>ADI CANES JKT FI9175</h1>
+ <p class="price3">$99.00</p>
+ 
+ <p class="cart3"><p><button>Add to Cart</button></p>
+	</div>
+	</div>
 		
-	<div class="footer">Footer - Copyright statement</div>
+	<div class="footer">© 2020 Nick Jensen.</div>
 	
   </body>
 </html>
+
+
+
+
 
 
 
