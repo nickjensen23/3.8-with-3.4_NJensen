@@ -14,19 +14,17 @@
 	<!-- import the webpage's stylesheet goes here -->
 	<link rel="stylesheet" href="css/style.css">
 	
+		<div class="header">
+	<img src="img/Lifestyle Sports Logo.jpg" alt="Logo" class="center">
+	</div>
+	
 	</head> 
 	
 	<!-- main webpage content starts here -->
   <body>
   
-	<div class="grid-container">
-	
-	<div class="header">
-	<img src="img/Lifestyle Sports Logo.jpg" alt="Logo" class="center">
-	</div>
-	
-	<!--This class is for my Navigation/Menu -->
-	<div class="nav">
+  	<!--This class is for my Navigation/Menu -->
+		<div class="nav">
 		<nav>
 			<ul>
 				<li><a href="index.html">Home</a></li>
@@ -35,8 +33,10 @@
 				<li><a href="contact.html">Contact</a></li>
 			</ul>
 		</div>
+  
 	<div class="section">
-<!-- Slideshow container -->
+
+	<!-- Slideshow container -->
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
@@ -48,13 +48,13 @@
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="img/Lifestyle Sports Sign.jfif" style="width:100%">
+    <img src="img2.jpg" style="width:100%">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="img/Lifestyle Sports Equipment.jfif" style="width:100%">
+    <img src="img3.jpg" style="width:100%">
     <div class="text">Caption Three</div>
   </div>
 
@@ -70,9 +70,21 @@
   <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
 </div>
-</div>
+
+<p>Thanks to <a href="https://lifestylesports.co.nz/"> Lifestyle Sports</a> for the images</p>
+
+	</div>
+
+
 		
+
+	
 	<div class="footer">© 2020 Nick Jensen.</div>
 	
   </body>
 </html>
+
+
+
+
+ 
